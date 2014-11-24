@@ -1,0 +1,19 @@
+*.class
+
+ 
+### Eclipse ###
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+.classpath
+.settings/
+bin/**
+gen/**
+**/build
+.idea/**
+.gradle/**
+gradle/**
